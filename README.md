@@ -31,3 +31,9 @@
 - Back-End : Node.js
 - DB : MariaDB
 - Server : AWS
+
+<br>
+
+서비스 시작 방법
+---
+`> node /src/server/server/js`
