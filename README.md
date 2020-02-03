@@ -37,3 +37,9 @@
 서비스 시작 방법
 ---
 `> node /src/server/server/js`
+
+<br>
+
+테이블 및 데이터 생성 쿼리
+---
+[Query](https://github.com/dyan03/Koscom-Hackathon-fin/blob/master/Query.txt)
