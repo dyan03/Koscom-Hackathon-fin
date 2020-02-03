@@ -42,4 +42,4 @@
 
 테이블 및 데이터 생성 쿼리
 ---
-[Query](https://github.com/dyan03/Koscom-Hackathon-fin/blob/master/Query.txt)
+☞ [Query](https://github.com/dyan03/Koscom-Hackathon-fin/blob/master/Query.txt)
