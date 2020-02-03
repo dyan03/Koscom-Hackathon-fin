@@ -25,7 +25,7 @@
 기술 스택
 ---
 
-- 
-- 
-- 
-- 
+- Front-End : React
+- Back-End : Node.js
+- DB : MariaDB
+- Server : AWS
