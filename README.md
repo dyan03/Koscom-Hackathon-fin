@@ -12,7 +12,7 @@
 - 사모펀드에 대한 공모형식의 소액투자가 가능해지므로, 일반투자자들의 포트폴리오 범위가 확대된다는 점에서, 투자자들의 니즈 충족 및 자본시장 활성화 기대
 - 사업의 지속가능성 측면에서, 플랫폼 비즈니스의 세 주체가 모두 win-win할 수 있는 결과를 도출할 수 있으므로, 안정적인 플랫폼 운영이 기대
 
-☞ [발표자료](https://github.com/dyan03/Koscom-Hackathon-fin/blob/master/%ED%94%BC%ED%94%BC%ED%8B%B0%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_2%EC%A1%B0.pdf)
+☞ [발표자료](https://github.com/dyan03/Koscom-Hackathon-fin/blob/master/Presentation.pdf)
 
 <br>
 
